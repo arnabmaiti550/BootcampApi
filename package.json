@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp_api",
+  "version": "1.0.0",
+  "description": "Learning Node js API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+/arnabmaiti550/BootcampApi.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Rest",
+    "API"
+  ],
+  "author": "Arnab Maiti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnabmaiti550/BootcampApi/issues"
+  },
+  "homepage": "https://github.com/arnabmaiti550/BootcampApi#readme"
+}
